@@ -8,6 +8,11 @@ This project demonstrates end-to-end ML pipeline: data preprocessing, model trai
 
 This recommendation system learns patterns from user behavior data and suggests relevant items using a neural network-based approach.
 
+# DataSet used here : 
+I used MovieLens 1M dataset to train this model here 
+
+Link : [text](https://grouplens.org/datasets/movielens/1m/)
+
 
 #  Key Features
 
