@@ -46,15 +46,15 @@ Optimizer:
 # Result of my training process :
 ## 📊 Model Output
 
-<img src = "output.png" width = 500>
+<img src = "output.png" width = 1000>
 Training Accuracy : 
     Average RMSE : 0.8857
 Testing Accuracy : 
     Average RMSE : 0.8880
-    
+
 # Testing over my testing data 
 
-<img src = "output2.png"  width = 500>
+<img src = "output2.png"  width = 1000>
 
 
 
