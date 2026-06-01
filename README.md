@@ -11,7 +11,7 @@ This recommendation system learns patterns from user behavior data and suggests 
 # DataSet used here : 
 I used MovieLens 1M dataset to train this model here 
 
-Link : [text](https://grouplens.org/datasets/movielens/1m/)
+Link : [MovieLens](https://grouplens.org/datasets/movielens/1m/)
 
 
 #  Key Features
