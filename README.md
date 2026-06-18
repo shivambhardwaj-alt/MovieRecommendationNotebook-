@@ -1,5 +1,5 @@
 # MovieRecommendationNotebook-                 
-author:shivam bhardwaj
+
 Here i implemeneted movie recommender using pytorch
 A machine learning-based recommendation system built using **PyTorch**, designed to predict user-item interactions and provide personalized recommendations.
 
